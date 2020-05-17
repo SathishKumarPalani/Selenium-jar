@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="WebDriver" duration-ms="9127" started-at="2020-05-17T19:01:13Z" finished-at="2020-05-17T19:01:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9127" started-at="2020-05-17T19:01:13Z" finished-at="2020-05-17T19:01:22Z">
+      <class name="TestNG.test">
+        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.test@467aecef]" name="launch" is-config="true" duration-ms="8208" started-at="2020-05-17T19:01:13Z" finished-at="2020-05-17T19:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="verify()[pri:0, instance:TestNG.test@467aecef]" name="verify" duration-ms="727" started-at="2020-05-17T19:01:21Z" finished-at="2020-05-17T19:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify -->
+        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.test@467aecef]" name="close" is-config="true" duration-ms="148" started-at="2020-05-17T19:01:22Z" finished-at="2020-05-17T19:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestNG.test -->
+    </test> <!-- Test -->
+  </suite> <!-- WebDriver -->
+</testng-results>
