@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="WebDriver" duration-ms="8897" started-at="2020-05-17T19:50:40Z" finished-at="2020-05-17T19:50:49Z">
+  <suite started-at="2020-05-29T00:23:56 IST" name="WebDriver" finished-at="2020-05-29T00:24:23 IST" duration-ms="26880">
     <groups>
     </groups>
-    <test name="Test" duration-ms="8897" started-at="2020-05-17T19:50:40Z" finished-at="2020-05-17T19:50:49Z">
+    <test started-at="2020-05-29T00:23:56 IST" name="Test" finished-at="2020-05-29T00:24:23 IST" duration-ms="26880">
       <class name="TestNG.test">
-        <test-method status="PASS" signature="launch()[pri:0, instance:TestNG.test@6b9651f3]" name="launch" is-config="true" duration-ms="8069" started-at="2020-05-17T19:50:40Z" finished-at="2020-05-17T19:50:48Z">
+        <test-method is-config="true" signature="launch()[pri:0, instance:TestNG.test@7ee955a8]" started-at="2020-05-29T00:23:56 IST" name="launch" finished-at="2020-05-29T00:24:20 IST" duration-ms="23922" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-        <test-method status="PASS" signature="verify()[pri:0, instance:TestNG.test@6b9651f3]" name="verify" duration-ms="644" started-at="2020-05-17T19:50:48Z" finished-at="2020-05-17T19:50:49Z">
+        <test-method signature="verify()[pri:0, instance:TestNG.test@7ee955a8]" started-at="2020-05-29T00:24:20 IST" name="verify" finished-at="2020-05-29T00:24:21 IST" duration-ms="1047" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify -->
-        <test-method status="PASS" signature="close()[pri:0, instance:TestNG.test@6b9651f3]" name="close" is-config="true" duration-ms="145" started-at="2020-05-17T19:50:49Z" finished-at="2020-05-17T19:50:49Z">
+        <test-method is-config="true" signature="end()[pri:0, instance:TestNG.test@7ee955a8]" started-at="2020-05-29T00:24:21 IST" name="end" finished-at="2020-05-29T00:24:22 IST" duration-ms="1712" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- close -->
+        </test-method> <!-- end -->
       </class> <!-- TestNG.test -->
     </test> <!-- Test -->
   </suite> <!-- WebDriver -->
